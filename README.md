@@ -420,4 +420,3 @@ This project demonstrates three things to Crustdata:
 
 3. **Developer experience** — The full pipeline is readable, modular, and extensible. Any Crustdata customer building on their API can plug CrustShield or the Churn Verifier into their existing stack.
 
-TrueSignal is not a competitor to Crustdata — it is the middleware layer that makes Crustdata data enterprise-deployable.
